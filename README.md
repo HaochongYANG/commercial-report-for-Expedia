@@ -1,4 +1,4 @@
-# data_analysis
+# commercial_report_for_expedia
 Source code: Data Analysis Report for Expedia.Rmd
 
 Project Overview: Data-Analysis-Report-for-Expedia.pdf
