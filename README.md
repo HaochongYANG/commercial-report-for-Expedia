@@ -1,5 +1,4 @@
 # data_analysis
-My data analyzing projects.
 This file contains my project which analyzed the sample data provided by Expedia. data that are used for analyzing in this project are a random sample consisted of 1000 searches made by consumers who made at least one click on the Expedia website during a period from 2021-06-01 to 2021-07-31.
 
 The three research questions my project focused on are:
