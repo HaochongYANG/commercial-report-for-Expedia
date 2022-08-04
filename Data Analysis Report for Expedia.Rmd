@@ -325,28 +325,3 @@ conf_int <- quantile(boot_tbl$mean,c(0.05, 0.95))
 
 - Changing output Theme
   https://hartwork.org/beamer-theme-matrix/
-  
-I would like to express our gratitude and thanks to Prof. Caetano, Prof. Schwartz, my TA Nick, as well as the TA that is reading our project right now! Thanks for your efforts!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
